@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /_images/index.gif
+heroImage: https://raw.githubusercontent.com/elotus/blog/gh-pages/_images/index.gif
 meta:
   - name: keywords
     content: 个人文档
