@@ -1,7 +1,7 @@
 module.exports = {
   title: '个人文档', 
   description : '个人文档',
-  base : '/',
+  base : '/blog/',
   plugins: {
     "vuepress-plugin-auto-sidebar": {}
   },

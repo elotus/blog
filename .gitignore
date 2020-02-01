@@ -2,7 +2,8 @@ build/
 dist/
 docs/docs/.DS_Store
 docs/.DS_Store
-docs/.vuepress/theme
+docs/.vuepress/theme/
+docs/.vuepress/dist/
 .DS_Store
 .temp
 node_modules
