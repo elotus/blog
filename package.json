@@ -1,0 +1,11 @@
+{
+  "name": "docs",
+  "description": "个人文档",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress-plugin-auto-sidebar": "^1.2.0"
+  }
+}

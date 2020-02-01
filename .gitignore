@@ -1,0 +1,10 @@
+build/
+dist/
+docs/docs/.DS_Store
+docs/.DS_Store
+docs/.vuepress/theme
+.DS_Store
+.temp
+node_modules
+package-lock.json
+yarn.lock
