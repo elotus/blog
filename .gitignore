@@ -1,11 +1,4 @@
-build/
-dist/
-docs/docs/.DS_Store
 docs/.DS_Store
-docs/.vuepress/theme/
-docs/.vuepress/dist/
+docs/.DS_Store
 .DS_Store
 .temp
-node_modules
-package-lock.json
-yarn.lock
